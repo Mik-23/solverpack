@@ -6,7 +6,6 @@ setup(
   version='0.0.1',
   author='mikhail_rozhkov',
   description='Package solver.',
-  url='https://github.com/Mik-23/solverpack.git',
   packages=find_packages(),
   install_requires=['pandas==2.2.2',
                     'sqlalchemy==2.0.35',
